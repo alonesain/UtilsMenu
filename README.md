@@ -10,7 +10,11 @@ CREATED FOR INFORMATIONAL PURPOSES ONLY.
 
 Installation/Установка
 git clone https://github.com/alonesain/UtilsMenu/
+
 cd ~/UtilsMenu/Utilits/
+
 cd
+
 cd ~/UtilsMenu/
+
 python3 mum.py
