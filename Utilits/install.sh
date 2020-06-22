@@ -23,7 +23,6 @@ cd HOME/UtilsMenu/Utilits
 
 git clone https://github.com/crinny/b0mb3r.git
 git clone https://github.com/termux-lab/smsham.git 
-git clone https://github.com/K1ngSoul/Parad1seBomb.git
 git clone https://github.com/4D4N-Termux/hambom.git
 git clone https://github.com/termux-lab/kingfish.git
 git clone https://github.com/termux-lab/kingfish2.0.git
@@ -37,3 +36,4 @@ cd HOME/UtilsMenu/Utilits/hulky
 chmod +x hulky.py
 
 umenu
+
