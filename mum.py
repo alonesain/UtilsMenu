@@ -18,10 +18,9 @@ print(Fore.GREEN + """#BOMBERS#
 #TOOlS#
 [8]-Toolss
 #DDOS#
-[9]-HULK(min 1gb ram)
-[10]-Aiohttpdos
+[9]-Aiohttpdos
 #HTTP#
-[11]-NGROK or LocalHost.run""")
+[10]-NGROK or LocalHost.run""")
 
 os.chdir('Utilits')
 
@@ -86,15 +85,10 @@ while True:
 		os.system("python3 Toolss.py")
 	elif num == ('9'):
 		os.system("clear")
-		print(Fore.GREEN + "Starting HULK")
-		os.chdir("hulky")
-		os.system("python3 hulky.py")
-	elif num == ('10'):
-		os.system("clear")
 		print(Fore.GREEN + "Starting aiohttpdos")
 		os.chdir("aiohttpdos")
 		os.system("python3 aiohttpdos.py")
-	elif num == ('11'):
+	elif num == ('10'):
 		print(Fore.RED + '[1]-Ngrok [2]-SSH LocalHost')
 		http =str(input())
 		if http == ('1') :
