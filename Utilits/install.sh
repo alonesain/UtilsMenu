@@ -29,11 +29,8 @@ git clone https://github.com/termux-lab/kingfish2.0.git
 git clone https://github.com/termux-lab/kingfish3.git
 git clone https://github.com/htr-tech/nexphisher.git
 git clone https://github.com/AnonHackerr/toolss.git
-git clone https://github.com/4D4N-Termux/hulky
 git clone https://github.com/4D4N-Termux/aiohttpdos.git
 cd
-cd HOME/UtilsMenu/Utilits/hulky
-chmod +x hulky.py
 
 umenu
 
