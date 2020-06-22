@@ -10,7 +10,7 @@ CREATED FOR INFORMATIONAL PURPOSES ONLY.
 
 Installation/Установка
 
-git clone https://github.com/alonesain/UtilsMenu.git
+git clone https://github.com/alonesain/UtilsMenu
 cd UtilsMenu/Utilits
 bash install.sh
 cd 
