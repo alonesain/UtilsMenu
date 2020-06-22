@@ -9,8 +9,8 @@ CREATED FOR INFORMATIONAL PURPOSES ONLY.
 СОЗДАННО ИСКЛЮЧИТЕЛЬНО В ОЗНОКОМИТЕЛЬНЫХ ЦЕЛЯХ.
 
 Installation/Установка
-git clone https://github.com/alonesain/UtilsMenu
-cd ~/UtilsMenu/Utilits
+git clone https://github.com/alonesain/UtilsMenu/
+cd ~/UtilsMenu/Utilits/
 cd
-cd ~/UtilsMenu
+cd ~/UtilsMenu/
 python3 mum.py
