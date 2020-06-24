@@ -20,7 +20,9 @@ print(Fore.GREEN + """#BOMBERS#
 #DDOS#
 [9]-Aiohttpdos
 #HTTP#
-[10]-NGROK or LocalHost.run""")
+[10]-NGROK or LocalHost.run
+Чтобы удалить одну из утилит, пишите перед цифрой утилиты (del). Пример: del 1
+To delete one of the utilities, write before the utility number (del). Example: del 1""")
 
 os.chdir('Utilits')
 
@@ -103,5 +105,53 @@ while True:
 			print(Fore.RED + "Port?")
 			port =str(input())
 			os.system('ssh -R 80:localhost:'+port+' ssh.localhost.run')
-
-
+	elif num == ('del 1'):
+		print(Fore.RED + "Deleting b0mb3r")
+		os.system("rm -rf b0mb3r")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 2'):
+		print(Fore.RED + "Deleting smsham")
+		os.system("rm -rf b0mb3r")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 3'):
+		print(Fore.RED + "Deleting HamBom")
+		os.system("rm -rf HamBom")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 4'):
+		print(Fore.RED + "Deleting kingfish")
+		os.system("rm -rf kingfish")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 5'):
+		print(Fore.RED + "Deleting kingfish2")
+		os.system("rm -rf kingfish2.0")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 6'):
+		print(Fore.RED + "Deleting kingfish3")
+		os.system("rm -rf kingfish3.0")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 7'):
+		print(Fore.RED + "Deleting NexPhisher")
+		os.system("rm -rf nexphisher")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 8'):
+		print(Fore.RED + "Deleting Toolss")
+		os.system("rm -rf toolss")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 9'):
+		print(Fore.RED + "Deleting aiohttpdos")
+		os.system("aiohttpdos")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
+	elif num == ('del 9'):
+		print(Fore.RED + "Deleting Ngrok")
+		os.system("rm -rf ngroka")
+		os.system("clear")
+		print(Fore.RED + "Deleted")
