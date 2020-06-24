@@ -18,7 +18,6 @@ python3 -m pip install prettytable
 python3 -m pip install -r requirements.txt
 alias umenu="cd ~/UtilsMenu;python3 mum.py"
 
-cd
 cd HOME/UtilsMenu/Utilits
 
 git clone https://github.com/crinny/b0mb3r.git
@@ -30,7 +29,9 @@ git clone https://github.com/termux-lab/kingfish3.git
 git clone https://github.com/htr-tech/nexphisher.git
 git clone https://github.com/AnonHackerr/toolss.git
 git clone https://github.com/4D4N-Termux/aiohttpdos.git
-cd
+
+cd b0mb3r
+python3 setup.py
 
 umenu
 
