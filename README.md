@@ -14,7 +14,7 @@ git clone https://github.com/alonesain/UtilsMenu/
 
 cd ~/UtilsMenu/Utilits/
 
-cd
+bash install.sh
 
 cd ~/UtilsMenu/
 
