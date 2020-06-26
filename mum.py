@@ -315,3 +315,5 @@ To delete a utility, write before the utility number (del) Example: del 1""")
 				os.system("clear")
 				print(Fore.RED + "Deleted")
 
+
+				
