@@ -9,13 +9,20 @@ CREATED FOR INFORMATIONAL PURPOSES ONLY.
 СОЗДАННО ИСКЛЮЧИТЕЛЬНО В ОЗНОКОМИТЕЛЬНЫХ ЦЕЛЯХ.
 
 Installation/Установка
+<code>apt update && apt upgrade</code><br>
 
-git clone https://github.com/alonesain/UtilsMenu/
+<code>pkg install python</code><br>
 
-cd ~/UtilsMenu/Utilits/
+<code>pkg install git</code><br>
 
-bash install.sh
+<code>pkg install python3</code><br>
 
-cd ~/UtilsMenu/
+<code>git clone https://github.com/alonesain/UtilsMenu/</code><br>
 
-python3 mum.py
+<code>cd ~/UtilsMenu/Utilits/</code><br>
+
+<code>bash install.sh</code><br>
+
+<code>cd ~/UtilsMenu/</code><br>
+
+<code>python3 mum.py</code><br>
